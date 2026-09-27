@@ -1,0 +1,7 @@
+target/
+.DS_Store
+*.profraw
+# Locally obtained OKSTRA material (XSD, XMI, EA projects, PDFs, HTML
+# documentation). Redistribution rights are not established; never commit,
+# package, or publish anything from this directory.
+references/
