@@ -1,0 +1,19 @@
+[package]
+name = "openbim-okstra"
+description = "Typed foundations for OKSTRA, the German road and traffic object catalogue: release identifiers and schema packages"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+authors.workspace = true
+repository.workspace = true
+documentation = "https://docs.rs/openbim-okstra"
+readme = "README.md"
+keywords = ["okstra", "openbim", "bim", "road", "infrastructure"]
+categories = ["data-structures", "parser-implementations", "science::geo"]
+include = ["src/**", "Cargo.toml", "README.md", "LICENSE"]
+
+[dependencies]
+
+[lints]
+workspace = true
