@@ -26,4 +26,5 @@ from the public okstra.de download pages as of 2026-09-27. OKSTRA® is a
 registered trademark; this crate is independent and not endorsed by the
 OKSTRA maintainers.
 
-Licensed under AGPL-3.0-or-later.
+Licensed under `AGPL-3.0-or-later OR LicenseRef-Commercial`; a commercial
+licence is available from the copyright holder named in `NOTICE`.
