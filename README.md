@@ -34,4 +34,4 @@ maintainers.
 bash scripts/gate.sh
 ```
 
-AGPL-3.0-or-later licensed. See [LICENSING.md](LICENSING.md).
+Dual-licensed `AGPL-3.0-or-later OR LicenseRef-Commercial`. See [LICENSING.md](LICENSING.md).

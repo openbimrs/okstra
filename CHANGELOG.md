@@ -6,8 +6,14 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and 
 
 ## [Unreleased]
 
+## [0.1.1] - 2026-10-28
+
 ### Changed
 
+- **Licence:** `AGPL-3.0-or-later OR LicenseRef-Commercial` (was
+  `AGPL-3.0-or-later`); a commercial licence is available from the copyright
+  holder named in `NOTICE`. See `LICENSING.md`. The crate ships `LICENSE`,
+  `NOTICE` and `LICENSES/LicenseRef-Commercial.txt`.
 - Raise MSRV to Rust 1.99.
 
 ## [0.1.0] - 2026-09-27
@@ -27,5 +33,6 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and 
 - `references/` is ignored, and the gate rejects OKSTRA schema, model, and
   documentation payloads in Git and in the crate package.
 
-[Unreleased]: https://github.com/openbimrs/okstra/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/openbimrs/okstra/compare/v0.1.1...HEAD
+[0.1.1]: https://github.com/openbimrs/okstra/releases/tag/v0.1.1
 [0.1.0]: https://github.com/openbimrs/okstra/releases/tag/v0.1.0

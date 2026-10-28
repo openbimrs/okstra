@@ -11,7 +11,7 @@ documentation = "https://docs.rs/openbim-okstra"
 readme = "README.md"
 keywords = ["okstra", "openbim", "bim", "road", "infrastructure"]
 categories = ["data-structures", "parser-implementations", "science::geo"]
-include = ["src/**", "Cargo.toml", "README.md", "LICENSE"]
+include = ["src/**", "Cargo.toml", "README.md", "LICENSE", "NOTICE", "LICENSES/LicenseRef-Commercial.txt"]
 
 [dependencies]
 
